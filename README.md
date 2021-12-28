@@ -1,1 +1,1 @@
-![hippo](https://github.com/olgaSerg/PizzaRecept2/blob/master/picture_compress%20(2).gif)
+![hippo](https://github.com/olgaSerg/PizzaRecept2/blob/master/tetris%20(1).gif)
